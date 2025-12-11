@@ -54,10 +54,6 @@ Please refer to the detailed documentation and instructions within the repositor
 
 Contributions to this repository are welcome. If you encounter any issues, have suggestions, or want to add new features, please submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 We would like to acknowledge the contributions and support from the open source community and Google AI Platform.
